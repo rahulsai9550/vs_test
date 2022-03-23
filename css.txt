@@ -1,0 +1,1 @@
+If you use Bitbucke instead of github you will delete the first "git://" part and directly write git@bitbucket.org:yourusername/reponame.git and of course change the place holders : "yourusername" and "reponame" with yours. 
